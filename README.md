@@ -314,6 +314,7 @@ NODE_ENV=development
 |------|-----|
 | **Proje Danışmanı** | Nurettin Şanyer |
 | **Proje Danışmanı** | Ömer Hoca |
+| **Geliştirici** | Khalid Tariq |
 | **Geliştirici** | İrem Altunay |
 
 ---
